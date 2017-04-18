@@ -1,9 +1,14 @@
-# api documentation for  [bourbon (v4.3.4)](http://bourbon.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bourbon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bourbon)
+# npmdoc-bourbon
+
+#### api documentation for  [bourbon (v4.3.4)](http://bourbon.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bourbon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bourbon)
+
 #### A simple and lightweight mixin library for Sass.
 
-[![NPM](https://nodei.co/npm/bourbon.png?downloads=true)](https://www.npmjs.com/package/bourbon)
+[![NPM](https://nodei.co/npm/bourbon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bourbon)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-bourbon/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-bourbon_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-bourbon/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-bourbon/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-bourbon/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-bourbon/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-bourbon/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-bourbon/build/screenCapture.npmPackageListing.svg)
 
@@ -48,21 +53,17 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "ralphbot",
-            "email": "ralph@thoughtbot.com"
+            "name": "ralphbot"
         },
         {
-            "name": "tysongach",
-            "email": "tyson@thoughtbot.com"
+            "name": "tysongach"
         },
         {
-            "name": "whmii",
-            "email": "will@mcmahan.me"
+            "name": "whmii"
         }
     ],
     "name": "bourbon",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/thoughtbot/bourbon.git"
@@ -73,17 +74,6 @@
     "version": "4.3.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module bourbon](#apidoc.module.bourbon)
-1.  object <span class="apidocSignatureSpan">bourbon.</span>includePaths
-
-
-
-# <a name="apidoc.module.bourbon"></a>[module bourbon](#apidoc.module.bourbon)
 
 
 
