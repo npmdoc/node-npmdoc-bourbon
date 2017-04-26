@@ -1,6 +1,6 @@
 # npmdoc-bourbon
 
-#### api documentation for  [bourbon (v4.3.4)](http://bourbon.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bourbon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bourbon)
+#### basic api documentation for  [bourbon (v4.3.4)](http://bourbon.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-bourbon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bourbon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bourbon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bourbon)
 
 #### A simple and lightweight mixin library for Sass.
 
@@ -71,7 +71,8 @@
     "scripts": {
         "test": "echo \"No test specified\""
     },
-    "version": "4.3.4"
+    "version": "4.3.4",
+    "bin": {}
 }
 ```
 
